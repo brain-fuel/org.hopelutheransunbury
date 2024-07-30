@@ -20,7 +20,10 @@ root(Site)
     Table Talk
     Confirmation
     Calendar
-  Sermons
+  Teaching & Preaching
+    Sermons
+    Bible Studies
+    Other
   Resources
   Ministries
     Everyone
@@ -44,3 +47,4 @@ root(Site)
 ## Notes
 - Make sure "Participation in the Lord's Supper" is included in "What to Expect / What We Believe"
 - Make events filterable by target audience,
+- Make maximizable/minimizable table of contents for pages that need it
