@@ -20,9 +20,8 @@ root(Site)
     Table Talk
     Confirmation
     Calendar
-  Teachings
-    Sermons
-    Resources
+  Sermons
+  Resources
   Ministries
     Everyone
     Parents & Children
